@@ -21,6 +21,7 @@ class gTTS:
         'en' : 'English',
         'en-us' : 'English (United States)',
         'en-au' : 'English (Australia)',
+        'en-uk' : 'English (British)',
         'eo' : 'Esperanto',
         'fi' : 'Finnish',
         'fr' : 'French',
